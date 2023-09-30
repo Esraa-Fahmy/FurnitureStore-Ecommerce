@@ -1,0 +1,101 @@
+[
+    {
+      "title": "Scarlet Wooden Bed Beige",
+      "slug": "Scarlet-Wooden-Bed-Beige",
+      "quantity": 4,
+      "sold": 2,
+      "price": 4000,
+      "priceAfterDiscount": 0,
+      "description": "A functional & decorative wooden bed that suits in any bedroom.",
+      "category": "65131050bc9152b78d45b424",
+      "imageCover": "https://www.99acres.com/microsite/wp-content/blogs.dir/6161/files/2023/06/Upholstered-Bed-Design.jpg",
+      "ratingsAverage": 4.3,
+      "ratingsQuantity": 20
+    },
+    {
+      "title": "Sandra Buffet",
+      "slug": "Sandra-Buffet",
+      "quantity": 3,
+      "sold": 2,
+      "price": 9500,
+      "priceAfterDiscount": 9000,
+      "description": "A functional and decorative buffet for a dining room. This buffet would make an excellent accent piece in the room in any modern or vintage décor.",
+      "category": "6513179b7d882cb64f27477b",
+      "imageCover": "https://m.media-amazon.com/images/I/71ll8S13j5L._UF1000,1000_QL80_.jpg",
+      "ratingsAverage": 4.4,
+      "ratingsQuantity": 0
+    },
+    {
+      "title": "Gold Table",
+      "slug": "Gold Table",
+      "quantity": 2,
+      "sold": 0,
+      "price": 3500,
+      "description": "Iron and Glass Coffee Table Gold.",
+      "category": "65150d04337d41f06b830e27",
+      "imageCover": "Luxury-Coffee-Table-Decoration-Living-Room-Round-Table-Tv-Unit-Furniture-Articulos-Para-El-Hogar-Minimalist.webp",
+      "ratingsAverage": 4.0,
+      "ratingsQuantity": 0
+    },
+    {
+      "title": "Ensemble L-Shape",
+      "slug": "Ensemble-L-Shape",
+      "quantity": 2,
+      "sold": 2,
+      "price": 25800,
+      "description": "250Cm Width  160Cm Depth  70Cm Hight",
+      "category": "651241736a9332e079fcab8d",
+      "imageCover": "gray-magic-home-sofas-couches-mh-hq-o23b-64_1000.avif",
+      "ratingsAverage": 4.9,
+      "ratingsQuantity": 9
+    },
+    {
+      "title": "Beech Wood L-Shape Sofa - Grey",
+      "slug": "Beech-Wood-L-Shape-Sofa - Grey",
+      "quantity": 1,
+      "sold": 0,
+      "price": 14900,
+      "description": "The padded piece flaunts a rounded silhouette and a solid wood frame for sturdy support. The fabric wrapped sofa requires occasional professional cleaning for efficient care and has a muted hue to match different interior settings.Product Colour may vary slightly due to photographic lighting or your screen settings. The product images have props used for illustrative purposes",
+      "category": "651241736a9332e079fcab8d",
+      "imageCover": "e3088739-c3f4-43d4-8d64-52ff82f85eea.jpg",
+      "ratingsAverage": 4.4,
+      "ratingsQuantity": 8
+    },
+    {
+      "title": "Upholstery bed",
+      "slug":  "Upholstery-bed",
+      "quantity": 4,
+      "sold": 2,
+      "price": 6600,
+      "description": "More beautiful and effective What gives stability and a modern look to the upholstered bed is the padded headboard that makes mornings spent in bed more comfortable since it provides additional storage space.",
+      "category": "65131050bc9152b78d45b424",
+      "imageCover": "images.jpg",
+      "ratingsAverage": 3.1,
+      "ratingsQuantity": 9
+    },
+    {
+      "title": "The Breuer Sofa",
+      "slug": "The-Breuer-Sofa",
+     "quantity": 1,
+      "sold": 0,
+      "price": 13500,
+      "description": "Italian modernist design Sofa...",
+      "category": "651241736a9332e079fcab8d",
+      "imageCover": "e3088739-c3f4-43d4-8d64-52ff82f85eea.jpg",
+      "ratingsAverage": 2.8,
+      "ratingsQuantity": 76
+    },
+    {
+      "title": "Natural Beech Wood and Velvet Fabric U-Shape Sofa",
+      "slug": "Natural-Beech-Wood and Velvet Fabric U-Shape-Sofa",
+      "quantity": 2,
+      "sold": 1,
+      "price": 10999,
+      "description": "Made of Natural Beech Wood, Velvet and high Density Sponge. Cushions colors are same as L-shape color.",
+      "category": "651241736a9332e079fcab8d",
+      "imageCover": "PRODZFRSP000000000047629_rene_3-seater-fabric-sofa__lifestyle.jpg",
+      "ratingsAverage": 4.3,
+      "ratingsQuantity": 20
+    }
+
+  ]

@@ -1,0 +1,41 @@
+{
+  "name": "furniture-e-commerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon server.js",
+    "start:prod": "NODE_ENV=production node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audit": "^0.0.6",
+    "auth": "^0.0.9",
+    "bcryptjs": "^2.4.3",
+    "canvas": "^2.11.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "eckey": "^1.0.1",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "express-validator": "^7.0.1",
+    "hbs": "^4.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.3",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.5",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7",
+    "sharp": "^0.32.6",
+    "slugify": "^1.6.6",
+    "token": "^0.1.0",
+    "uuid": "^9.0.1",
+    "validate": "^5.2.0",
+    "validator": "^13.11.0"
+  },
+  "description": ""
+}
